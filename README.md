@@ -7,7 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-# I primarily work with the languages listed above. I hope to learn about AI when I have the time.
+I primarily work with the languages listed above. I hope to learn about AI when I have the time.
 <!--
 **MIPyao/MIPyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
