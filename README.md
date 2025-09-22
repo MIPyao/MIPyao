@@ -1,4 +1,10 @@
-## Hi! I'm Zhao Yao, a Front-end Developer‌
+## 👋Hi! I'm Zhao Yao, a Front-end Developer‌
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <!--
 **MIPyao/MIPyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
