@@ -7,4 +7,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-I primarily work with the languages above, occasionally handling simple full-stack development tasks. My goal is to eventually dedicate time to learning about AI.
+I primarily work with the languages above, occasionally handling simple full-stack development tasks. I have also tried to become an AI Agent engineer and am currently learning knowledge related to multimodal large models.
